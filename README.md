@@ -7,3 +7,4 @@ I added this comment for feature1.
 
 * `Feature1-1` will be merged to remote's `feature1` branch
 * `Feature1-2` will be also merged to remote's `feature1` branch
+* `Feature1-3` will only commit to local
